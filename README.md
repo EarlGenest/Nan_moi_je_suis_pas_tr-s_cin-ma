@@ -1,24 +1,13 @@
-# README
+Projet réalisé par Charles Genestoux & team Rennes.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Bon comme tu pourras le constater, je n'ai fais qu'une petite moitité de cette exo. 
 
-* Ruby version
+J'ai passé une bonne partie de la journée à débugger mon scrapeur de cryptobigailles à la con !
 
-* System dependencies
+J'ai essayé d'écrire la logique sans  le faire marcher en ligne, je galère au niveau des secret key.
 
-* Configuration
+Bonne correction à toi ! 
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
